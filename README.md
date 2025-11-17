@@ -46,7 +46,9 @@ Developed by:JUHI JAHAN T S RegisterNumber:25011334
 **TIMING DIAGRAM FOR IP COUNTER**
 ![WhatsApp Image 2025-11-17 at 12 40 03_fc2f5575](https://github.com/user-attachments/assets/b64c3c59-e314-4c79-932c-90d6bea91bc0)
 
+
 **TRUTH TABLE**
+
 ![WhatsApp Image 2025-11-17 at 12 40 29_f32f901e](https://github.com/user-attachments/assets/7b1637ff-73e0-4da8-b09c-e19857f8f2bd)
 
 
